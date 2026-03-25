@@ -1,8 +1,10 @@
 {
   "client_id": "https://officialboyfriend.github.io/cloudside-client-metadata.json",
-  "application_type": "native",
   "client_name": "Cloudside",
   "client_uri": "https://cloudside.ivy.moe/",
+  "tos_uri": "https://gist.github.com/OfficialBoyfriend/e674e06969eefc8218185c5b96bf4390",
+  "policy_uri": "https://gist.github.com/OfficialBoyfriend/2ded9fe358a19ee107efcab81e0ad7c9",
+  "application_type": "native",
   "dpop_bound_access_tokens": true,
   "grant_types": ["authorization_code", "refresh_token"],
   "redirect_uris_OLD": ["hcloudside://oauth/callback"],
