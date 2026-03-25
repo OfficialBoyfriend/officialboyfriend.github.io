@@ -2,10 +2,12 @@
   "client_id": "https://officialboyfriend.github.io/cloudside-client-metadata.json",
   "application_type": "native",
   "client_name": "Cloudside",
+  "client_uri": "https://cloudside.ivy.moe/",
   "dpop_bound_access_tokens": true,
   "grant_types": ["authorization_code", "refresh_token"],
+  "redirect_uris_OLD": ["hcloudside://oauth/callback"],
   "redirect_uris": ["cloudside://oauth/callback"],
   "response_types": ["code"],
-  "scope": "atproto transition:generic",
+  "scope": "atproto transition:generic transition:chat.bsky",
   "token_endpoint_auth_method": "none"
 }
