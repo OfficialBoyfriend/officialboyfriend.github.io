@@ -2,6 +2,7 @@
   "client_id": "https://cloudside.ivy.moe/client-metadata.json",
   "client_name": "Cloudside",
   "client_uri": "https://cloudside.ivy.moe/",
+  "logo_uri": "https://cloudside.ivy.moe/logo_not_bg.png",
   "tos_uri": "https://gist.github.com/OfficialBoyfriend/e674e06969eefc8218185c5b96bf4390",
   "policy_uri": "https://gist.github.com/OfficialBoyfriend/2ded9fe358a19ee107efcab81e0ad7c9",
   "application_type": "native",
