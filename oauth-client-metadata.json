@@ -1,5 +1,5 @@
 {
-  "client_id": "https://cloudside.ivy.moe",
+  "client_id": "https://cloudside.ivy.moe/oauth-client-metadata.json",
   "client_name": "Cloudside",
   "client_uri": "https://cloudside.ivy.moe/",
   "logo_uri": "https://cloudside.ivy.moe/logo_not_bg.png",
